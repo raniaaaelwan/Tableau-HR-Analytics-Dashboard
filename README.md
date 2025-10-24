@@ -48,7 +48,7 @@ You can explore the live interactive version here:
 
 ## 📁 Dataset
 
-The dataset used for this project is included in this repository under the name **`HR_Data.csv`**.  
+The dataset used for this project is included in this repository under the name **`HR_Data.xlsx`**.  
 It contains detailed employee information including:
 
 - Employee demographics (age, gender, marital status)  
